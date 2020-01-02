@@ -1,0 +1,6 @@
+james,player,35
+wade,player,38
+kobi,player,41
+liudehua,singer,56
+jDon,player,53
+lixiaolong,acter,20
